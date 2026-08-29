@@ -285,12 +285,5 @@ My focus is on combining **AI + software engineering** to create applications th
 ```
 
 
-And your projects then prove it:
 
-**🛰️ SatQuery AI → AI/CV/Agentic**
-**🌱 Udyam Setu → Full Stack/Geolocation/SIH**
-**🎓 InternMitra → ML/Recommendation**
-**🏫 Placement Portal → MERN/Full Stack**
-
-That creates a much stronger story for recruiters and hackathon evaluators than a README that simply lists 30 technologies.
 
