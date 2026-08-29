@@ -1,69 +1,82 @@
-# 👋 Hey, I'm Dev Nayak
+Absolutely. Let's make it feel like **your own developer identity**, not a copy of the other GitHub profile.
 
-### AI/ML Enthusiast • Full-Stack Developer • Computer Vision • Agentic AI
+Below is a complete `README.md` for your **GitHub profile homepage**. You only need to replace `YOUR_USERNAME` and your LinkedIn URL.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Dev%20Nayak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+````markdown
+<div align="center">
 
-<p align="center">
-  <b>Building intelligent systems, useful web applications, and AI-powered solutions.</b>
-</p>
+# 👋 Hi, I'm DEV NAYAK
 
----
+### 🤖 AI/ML Developer • 🌐 Full-Stack Developer • 🧠 AI Systems Builder
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Agentic+AI+%26+Computer+Vision;Developing+Full-Stack+Web+Applications;Turning+Ideas+into+Working+Systems" />
 
-I'm an engineering student passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, Computer Vision, and Agentic AI**.
+<br>
 
-I enjoy building projects that combine **AI with practical real-world applications**, while also exploring modern web technologies and scalable software systems.
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)
 
-### 💡 Areas I'm Interested In
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & LLMs
-- 👁️ Computer Vision
-- 🔗 Agentic AI & AI Agents
-- 🌐 MERN Stack Development
-- ⚙️ Backend & API Development
-- 📊 Data Science & Intelligent Recommendation Systems
-- 🚀 Building real-world software solutions
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Who Am I?
 
-### Programming Languages
+I'm an engineering student passionate about building **intelligent software systems** at the intersection of:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c"/>
-</p>
+```text
+                    DEV NAYAK
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+       🤖 AI/ML      🌐 Full Stack   🧠 AI Agents
+          │             │             │
+      PyTorch         MERN          LLMs
+      Computer Vision React         VLMs
+      GenAI           Node.js       Orchestration
+      ML Models       APIs          Automation
+          │             │             │
+          └─────────────┼─────────────┘
+                        ↓
+               REAL-WORLD PROJECTS
+````
 
-### AI / ML
+I enjoy taking an idea from **problem → architecture → implementation → working product**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
+---
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLMs
-- Generative AI
-- Recommendation Systems
-- AI Agents
+# 🧠 What I'm Interested In
 
-### Web Development
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/>
-</p>
+### 🤖 Artificial Intelligence
 
-### Tools & Technologies
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Computer Vision
+* Vision-Language Models
+* Recommendation Systems
+* Agentic AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel"/>
-</p>
+</td>
+
+<td width="50%">
+
+### 🌐 Software Development
+
+* MERN Stack
+* Full-Stack Applications
+* REST APIs
+* Backend Development
+* Interactive Web Applications
+* Authentication & Authorization
+* Database Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,110 +84,222 @@ I enjoy building projects that combine **AI with practical real-world applicatio
 
 ## 🛰️ SatQuery AI
 
-An AI-powered satellite imagery analysis system designed to interact with remote-sensing imagery using natural language.
+### *Ask questions. Discover changes. Understand Earth.*
 
-**Focus:** Computer Vision • VQA • Remote Sensing • AI Agents • Multimodal AI
+An **agentic vision-language platform for remote-sensing image analysis** that allows users to interact with satellite imagery through natural-language queries.
 
-### Highlights
+### 🔥 Highlights
 
-- 🛰️ Satellite image analysis
-- 🤖 AI-powered visual question answering
-- 🧠 Natural-language interaction with imagery
-- 🔬 Optical & SAR imagery analysis
-- 📊 Image change analysis
-- ⚙️ Modular AI pipeline
+* 🧠 Agentic model routing
+* 🖼️ Remote-sensing Visual Question Answering
+* 🔄 Bi-temporal change analysis
+* 🛰️ Optical + SAR analysis
+* 🎯 Visual evidence & confidence scoring
+* 🔍 Explainable execution traces
 
----
-
-## 🤖 InternMitra
-
-An **AI-based internship recommendation system** designed to help students discover relevant internship opportunities based on their skills and profile.
-
-**Focus:** Machine Learning • Recommendation Systems • AI • Student Career Assistance
-
-### Highlights
-
-- 🎯 AI-based internship recommendations
-- 🧠 Student profile analysis
-- 📊 Skill-based matching
-- 🔍 Intelligent opportunity discovery
-- 🚀 Designed to improve internship search and career planning
+**Tech:** `Python` `PyTorch` `LLaVA` `FastAPI` `Computer Vision`
 
 ---
 
-## 🎓 College Placement Portal
+## 🌱 Udyam Setu
 
-A **college placement management platform** designed to streamline the placement process for students, recruiters, and administrators.
+### *Connecting local entrepreneurs with opportunities.*
 
-**Focus:** Full-Stack Development • MERN Stack • Placement Management
+**SIH 2026 — Problem Statement 92**
 
-### Highlights
+A geo-enabled platform designed to help marginalised and local entrepreneurs become discoverable by nearby customers and connect with relevant government schemes.
 
-- 👨‍🎓 Student management
-- 🏢 Recruiter/company management
-- 💼 Job and placement opportunities
-- 📋 Application tracking
-- 📊 Placement-related information management
-- 🌐 Full-stack web application
+### 🔥 Highlights
 
----
+* 📍 Location-based entrepreneur discovery
+* 🗺️ Interactive maps
+* 🏛️ Government scheme discovery
+* 👤 Business profiles
+* 🔐 Authentication
+* ✅ Admin verification
+* 🔎 Location-based search
 
-# 🧠 What I'm Currently Exploring
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 👁️ Computer Vision
-- 🛰️ Multimodal AI
-- 🌐 Advanced MERN Applications
-- 📊 Machine Learning & Recommendation Systems
-- ⚡ AI-powered Full-Stack Applications
+**Tech:** `JavaScript` `Node.js` `REST API` `Leaflet` `OpenStreetMap`
 
 ---
 
-# 📊 GitHub Stats
+## 🎓 InternMitra
 
-<p align="center">
+### *AI-powered internship recommendation.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev375506-design&show_icons=true&theme=radical&hide_border=true"/>
+An AI/ML-based internship recommendation system designed to recommend suitable internship opportunities based on a student's profile, skills and interests.
 
+### 🔥 Highlights
+
+* 🤖 AI-based recommendations
+* 👨‍🎓 Student profile analysis
+* 🎯 Skill-based matching
+* 📊 Recommendation pipeline
+
+**Tech:** `Python` `Machine Learning` `Recommendation Systems`
+
+---
+
+## 🏫 College Placement Portal
+
+### *Digitizing the college placement workflow.*
+
+A full-stack placement management platform connecting **students, placement officers and recruiters** through a centralized system.
+
+### 🔥 Highlights
+
+* 👨‍🎓 Student management
+* 🏢 Recruiter/company management
+* 📋 Placement workflows
+* 🔐 Authentication
+* 📊 Placement information management
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js`
+
+---
+
+# ⚡ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-<p align="center">
+### 🤖 AI / Machine Learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev375506-design&layout=compact&theme=radical&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
+`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI` `LLMs` `VLMs`
+
+### 🌐 Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+`MERN` `REST APIs` `Authentication` `Backend Development`
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dev375506-design&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 My Development Journey
+# 🧩 My Development Philosophy
 
 ```text
-AI / ML
-  │
-  ├── Machine Learning
-  ├── Deep Learning
-  ├── Computer Vision
-  ├── Generative AI
-  └── Agentic AI
-       │
-       ▼
-Full-Stack Development
-  │
-  ├── React
-  ├── Node.js
-  ├── Express
-  └── MongoDB
-       │
-       ▼
-Real-World AI Applications
+       PROBLEM
+          │
+          ↓
+     UNDERSTAND IT
+          │
+          ↓
+      DESIGN SYSTEM
+          │
+          ↓
+     BUILD + TEST
+          │
+          ↓
+      ITERATE 🔁
+          │
+          ↓
+      REAL PRODUCT
+```
+
+> **I don't just want to build models.
+> I want to build systems around them.**
+
+My focus is on combining **AI + software engineering** to create applications that are practical, explainable and usable.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 🔭 Currently Exploring
+
+```text
+🤖 Agentic AI          ███████████████████░
+🧠 Generative AI       ██████████████████░░
+👁️ Computer Vision     ██████████████████░░
+🌐 MERN Development     ███████████████████░
+🛰️ Geospatial AI       ███████████████░░░░░
+☁️ AI Deployment        ██████████████░░░░░░
+```
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build production-ready AI applications
+* 🧠 Go deeper into Agentic AI
+* 👁️ Explore advanced Computer Vision
+* 🌐 Build scalable full-stack systems
+* 🛰️ Explore Geospatial & Remote-Sensing AI
+* 🤝 Contribute to open source
+* 🏆 Build impactful hackathon projects
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Break. Learn. Improve. Repeat.
+
+⭐ If you find something interesting here, feel free to explore my repositories.
+
+</div>
+```
+
+### One thing I'd change from the example you showed
+
+I **wouldn't put every technology you've ever touched** on your profile. Your strongest identity should be:
+
+**AI/ML + Agentic AI + Computer Vision + MERN/Full Stack**
+
+And your projects then prove it:
+
+**🛰️ SatQuery AI → AI/CV/Agentic**
+**🌱 Udyam Setu → Full Stack/Geolocation/SIH**
+**🎓 InternMitra → ML/Recommendation**
+**🏫 Placement Portal → MERN/Full Stack**
+
+That creates a much stronger story for recruiters and hackathon evaluators than a README that simply lists 30 technologies.
+
