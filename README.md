@@ -284,11 +284,6 @@ My focus is on combining **AI + software engineering** to create applications th
 </div>
 ```
 
-### One thing I'd change from the example you showed
-
-I **wouldn't put every technology you've ever touched** on your profile. Your strongest identity should be:
-
-**AI/ML + Agentic AI + Computer Vision + MERN/Full Stack**
 
 And your projects then prove it:
 
