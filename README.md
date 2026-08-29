@@ -1,8 +1,4 @@
-Absolutely. Let's make it feel like **your own developer identity**, not a copy of the other GitHub profile.
 
-Below is a complete `README.md` for your **GitHub profile homepage**. You only need to replace `YOUR_USERNAME` and your LinkedIn URL.
-
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm DEV NAYAK
