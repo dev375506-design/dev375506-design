@@ -214,21 +214,13 @@ My focus is on combining **AI + software engineering** to create applications th
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev375506-design&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev375506-design&show_icons=true&theme=radical)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev375506-design&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev375506-design&layout=compact&theme=radical)
 
 </div>
 ---
